@@ -6,4 +6,4 @@ Wish me luck....
 
 UPDATE:
 So far so good with HTML & CSS prior to the 
-"Grouping Flex Items" portion. Everything in the ouput looks as it should.
+"Cross-Axis (Vertical) Alignment" portion. Everything in the ouput looks as it should.
