@@ -5,5 +5,5 @@ This will be my THIRD attmept at this exercise as it isnt visually coming out as
 Wish me luck....
 
 UPDATE:
-So far so good with HTML & CSS priot ro the 
+So far so good with HTML & CSS prior to the 
 "Grouping Flex Items" portion. Everything in the ouput looks as it should.
