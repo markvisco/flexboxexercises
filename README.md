@@ -5,5 +5,5 @@ This will be my THIRD attmept at this exercise as it isnt visually coming out as
 Wish me luck....
 
 UPDATE:
-So far so good with HTML & CSS priot ro the 
-"Grouping Flex Items" portion. Everything in the ouput looks as it should.
+So far so good with HTML & CSS prior to the 
+"Cross-Axis (Vertical) Alignment" portion. Everything in the ouput looks as it should.
